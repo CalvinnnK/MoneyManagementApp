@@ -12,5 +12,9 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+<<<<<<< HEAD
 rootProject.name = "MoneyManagementApplication"
+=======
+rootProject.name = "PiggyBank"
+>>>>>>> edf61b6 (Commit to Kotlin - Calvin)
 include ':app'

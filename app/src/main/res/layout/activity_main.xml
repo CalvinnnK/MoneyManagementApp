@@ -9,14 +9,22 @@
     <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
         android:theme="@style/Theme.MoneyManagementApplication.AppBarOverlay">
+=======
+        android:theme="@style/Theme.PiggyBank.AppBarOverlay">
+>>>>>>> edf61b6 (Commit to Kotlin - Calvin)
 
         <androidx.appcompat.widget.Toolbar
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
             android:background="?attr/colorPrimary"
+<<<<<<< HEAD
             app:popupTheme="@style/Theme.MoneyManagementApplication.PopupOverlay" />
+=======
+            app:popupTheme="@style/Theme.PiggyBank.PopupOverlay" />
+>>>>>>> edf61b6 (Commit to Kotlin - Calvin)
 
     </com.google.android.material.appbar.AppBarLayout>
 
